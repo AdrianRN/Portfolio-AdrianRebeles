@@ -118,7 +118,7 @@ export const projects = [
 		description:
 			'Embark on a musical journey like never before with SpotiApp, a cutting-edge web application meticulously crafted by our expert web developer. Seamlessly integrated with the Spotify API, SpotiApp empowers you to explore the latest music releases, delve into artist profiles, and discover the sounds that resonate with your soul.',
 		technologies: ['Angular', 'TypeScript', 'Bootstrap', 'NodeJS'],
-		imageUrl: '/public/imgs/spotiApp.png',
+		imageUrl: '../../public/imgs/spotiApp.png',
 		githubUrl: 'https://github.com/AdrianRN/spoti-app-angular',
 		websiteUrl: 'https://adrianrn.github.io/spoti-app-angular/#/home',
 		createdAt: '',
@@ -130,7 +130,7 @@ export const projects = [
 		description:
 			'Experience the epitome of task management with this To-Do App, an innovative web application meticulously crafted. Built using the dynamic duo of React and Tailwind CSS, To-Do App revolutionizes your productivity by providing a sleek, intuitive, and customizable platform for managing your tasks and to-do lists.',
 		technologies: ['React', 'JavaScript', 'TailwindCss'],
-		imageUrl: '/public/imgs/todoList.png',
+		imageUrl: '../../public/imgs/todoList.png',
 		githubUrl: 'https://github.com/AdrianRN/todolist-react',
 		websiteUrl: 'https://adrianrn.github.io/todolist-react/',
 		createdAt: '2022-10-12',
@@ -142,7 +142,7 @@ export const projects = [
 		description:
 			'Discover our cutting-edge RESTful API, blending Node.js, Express.js, and MongoDB for secure and user-friendly experiences. Traditional and JWT authentication ensure confident interactions and enhanced security. Redefining API development with seamless integration and advanced protection.',
 		technologies: ['NodeJs', 'ExpressJs', 'MongoDB'],
-		imageUrl: '/public/imgs/nodeApi.png',
+		imageUrl: '../../public/imgs/nodeApi.png',
 		githubUrl: 'https://github.com/AdrianRN/node-restserver-express',
 		websiteUrl: '',
 		createdAt: '2022-10-12',
