@@ -172,7 +172,6 @@ export const socials = [
 
 export const InitialStateContactForm = {
 	name: '',
-	subject: '',
 	email: '',
 	message: '',
 };

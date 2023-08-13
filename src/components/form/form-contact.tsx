@@ -14,7 +14,6 @@ export default component$(() => {
 	const reset = $(() => {
 		formState.name = '';
 		formState.email = '';
-		formState.subject = '';
 		formState.message = '';
 	});
 
@@ -64,16 +63,6 @@ export default component$(() => {
 				type='email'
 				value={formState.email}
 				placeholder='Email'
-			/>
-			<InputForm
-				required
-				onInput={$((e: Event) => {
-					formState.subject = (e.target as HTMLInputElement).value;
-				})}
-				name='subject'
-				type='text'
-				value={formState.subject}
-				placeholder='Subject'
 			/>
 			<InputForm
 				isTextArea

@@ -1,6 +1,5 @@
 import { $, useContext, useSignal } from '@builder.io/qwik';
 import { UIContext } from '~/context/ui/ui-context';
-import { sendEmail } from '~/helpers/send-email';
 
 export const useForm = <T>(initialState: T) => {
 	const { showAlert } = useContext(UIContext);
@@ -14,7 +13,6 @@ export const useForm = <T>(initialState: T) => {
 
 	const onSubmit = $(async () => {
 		loading.value = true;
-		await sendEmail(formValues.value);
 		loading.value = false;
 
 		reset();
