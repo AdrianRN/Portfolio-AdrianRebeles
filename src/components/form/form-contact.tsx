@@ -42,7 +42,7 @@ export default component$(() => {
 	});
 
 	return (
-		<form onSubmit$={onSubmit} preventdefault: submit>
+		<form onSubmit$={onSubmit} preventdefault:submit>
 			<InputForm
 				required
 				onInput={$((e: Event) => {
