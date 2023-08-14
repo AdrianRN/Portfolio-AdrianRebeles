@@ -91,7 +91,7 @@ export const projects = [
 		title: `Jr. Consultant`,
 		titlePlus: '(Front end & QA Engineer)',
 		description:
-			'Front-end developer, collaborating within a team to create engaging user interfaces, while in another team as a QA Engineer, I ensure the seamless functionality and quality of the software product through rigorous testing and analysis. For the company AXEN IT Consulting',
+			'Front-end developer, collaborating within a team to create engaging user interfaces, while in another team as a QA Engineer, I ensure the seamless functionality and quality of the software product through rigorous testing and analysis. For the company AXEN IT Consulting.',
 		technologies: ['React', 'TypeScript', 'NodeJs', 'TailwindCss', 'Git', 'Selenium', 'Azure'],
 		imageUrl: '#',
 		githubUrl: '#',
@@ -116,7 +116,7 @@ export const projects = [
 	{
 		title: 'SpotiApp',
 		description:
-			'Embark on a musical journey like never before with SpotiApp, a cutting-edge web application meticulously crafted by our expert web developer. Seamlessly integrated with the Spotify API, SpotiApp empowers you to explore the latest music releases, delve into artist profiles, and discover the sounds that resonate with your soul.',
+			'Embark on a musical journey like never before with SpotiApp, a cutting-edge web application meticulously developed. Seamlessly integrated with the Spotify API, SpotiApp empowers you to explore the latest music releases, delve into artist profiles, and discover the sounds that resonate with your soul.',
 		technologies: ['Angular', 'TypeScript', 'Bootstrap', 'NodeJS'],
 		imageUrl: '/imgs/spotiApp.png',
 		githubUrl: 'https://github.com/AdrianRN/spoti-app-angular',
@@ -128,7 +128,7 @@ export const projects = [
 	{
 		title: 'To-Do App',
 		description:
-			'Experience the epitome of task management with this To-Do App, an innovative web application meticulously crafted. Built using the dynamic duo of React and Tailwind CSS, To-Do App revolutionizes your productivity by providing a sleek, intuitive, and customizable platform for managing your tasks and to-do lists.',
+			'Experience the epitome of task management with this To-Do App. Built using the dynamic duo of React and Tailwind CSS, To-Do App revolutionizes your productivity by providing a sleek, intuitive, and customizable platform for managing your tasks during the day.',
 		technologies: ['React', 'JavaScript', 'TailwindCss'],
 		imageUrl: '/imgs/todoList.png',
 		githubUrl: 'https://github.com/AdrianRN/todolist-react',
