@@ -19,7 +19,7 @@ export default component$(() => {
 						Software Engineer
 					</p>
 					<p class='sm:mb-4 text-gray-500 dark:text-gray-400 text-step-0'>
-						2+ years of experience in web development, applying best practices and agile methodologies to ensure efficient and high-quality results.
+						3+ years of experience in web development, applying best practices and agile methodologies to ensure efficient and high-quality results.
 
 					</p>
 					<div class='flex justify-between items-center mt-4 md:mt-0'>

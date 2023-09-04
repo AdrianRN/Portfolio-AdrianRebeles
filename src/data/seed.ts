@@ -110,7 +110,7 @@ export const projects = [
 		githubUrl: '#',
 		websiteUrl: '#',
 		updatedAt: `2023`,
-		createdAt: `2022`,
+		createdAt: `2021`,
 		byMe: false,
 	},
 	{

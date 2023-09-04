@@ -41,7 +41,7 @@ export const head: DocumentHead = {
 		{
 			name: 'og:description',
 			content:
-			'Adrian Rebeles - Software Engineer +1 year experience.',
+			'Adrian Rebeles - Software Engineer +3 year experience.',
 		},
 		{
 			name: 'og:image',
