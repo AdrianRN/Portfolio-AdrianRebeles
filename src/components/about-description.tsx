@@ -9,7 +9,7 @@ export default component$(() => {
 			👋 About me
 			</h2>
 			<p class='mb-4 text-gray-800 dark:text-white'>
-				Software engineer with over 3+ years of experience as web developer.
+				Software engineer with over 2+ years of experience as web developer.
 			</p>
 			<p class='mb-4 text-gray-900 font-semibold dark:text-gray-400'>
 				My goal is to create products that offer exceptional experiences, blending attractive, intuitive, and high-quality design.
