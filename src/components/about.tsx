@@ -1,6 +1,7 @@
 import { component$ } from '@builder.io/qwik';
 import AboutDescription from './about-description';
 import Skills from './skills';
+import Certificates from './certificates';
 
 export default component$(() => {
 	return (
@@ -10,6 +11,7 @@ export default component$(() => {
 		>
 			<AboutDescription />
 			<Skills />
+			<Certificates />
 		</section>
 	);
 });

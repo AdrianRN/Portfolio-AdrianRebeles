@@ -114,6 +114,18 @@ export const projects = [
 		byMe: false,
 	},
 	{
+		title: 'Countries App',
+		description:
+			'Meet Countries sleek web app for instant country exploration. Search by region, country, or capital. Effortless globe-trotting at your fingertips',
+		technologies: ['Angular', 'TypeScript', 'TailwindCss'],
+		imageUrl: '/imgs/CountryApp.png',
+		githubUrl: 'https://github.com/AdrianRN/countries-app-angular',
+		websiteUrl: 'https://countries-app-adrianrn.vercel.app/',
+		createdAt: '',
+		updatedAt: '',
+		byMe: true,
+	},
+	{
 		title: 'SpotiApp',
 		description:
 			'Embark on a musical journey like never before with SpotiApp, a cutting-edge web application meticulously developed. Seamlessly integrated with the Spotify API, SpotiApp empowers you to explore the latest music releases, delve into artist profiles, and discover the sounds that resonate with your soul.',
@@ -133,6 +145,18 @@ export const projects = [
 		imageUrl: '/imgs/todoList.png',
 		githubUrl: 'https://github.com/AdrianRN/todolist-react',
 		websiteUrl: 'https://adrianrn.github.io/todolist-react/',
+		createdAt: '2022-10-12',
+		updatedAt: '2022-12-12',
+		byMe: true,
+	},
+	{
+		title: 'GifExpertApp',
+		description:
+			'Introducing "GifExpertApp" – your go-to React-powered app for quick and fun gif searches. Effortlessly explore a vast collection with a simple search interface. Instantly discover and share the perfect gifs!',
+		technologies: ['React', 'JavaScript'],
+		imageUrl: '/imgs/GifExpertApp.png',
+		githubUrl: 'https://github.com/AdrianRN/react-gif-expert',
+		websiteUrl: 'https://react-gif-expert-eight.vercel.app/',
 		createdAt: '2022-10-12',
 		updatedAt: '2022-12-12',
 		byMe: true,
